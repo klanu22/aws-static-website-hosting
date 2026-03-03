@@ -22,7 +22,7 @@ The website displays a simple welcome message and is publicly accessible via S3 
 
 ## 🔗 Live Website Link
 
-(Add your S3 website endpoint link here)
+([Click here to view my live website](http://dhaksh-static-website.s3-website.ap-south-1.amazonaws.com)
 
 ## 📷 Output Screenshot
 
